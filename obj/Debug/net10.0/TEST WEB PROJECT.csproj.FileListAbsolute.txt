@@ -1,0 +1,28 @@
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.exe
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.deps.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.dll
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\bin\Debug\net10.0\TEST WEB PROJECT.pdb
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\scopedcss\bundle\TEST WEB PROJECT.styles.css
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\compressed\8ptrowgb0s-{0}-wp4c1qm9eu-wp4c1qm9eu.gz
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.dll
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\refint\TEST WEB PROJECT.dll
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.pdb
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\TEST WEB PROJECT.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Dokumen\TEST WEB PROJECT\obj\Debug\net10.0\ref\TEST WEB PROJECT.dll
